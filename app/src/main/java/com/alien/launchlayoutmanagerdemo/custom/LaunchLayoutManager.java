@@ -1,11 +1,12 @@
 package com.alien.launchlayoutmanagerdemo.custom;
 
+import android.support.annotation.NonNull;
+import android.support.v7.widget.RecyclerView;
 import android.util.SparseArray;
 import android.view.View;
 
-import androidx.annotation.NonNull;
-import androidx.recyclerview.widget.RecyclerView;
 import timber.log.Timber;
+
 
 public class LaunchLayoutManager extends RecyclerView.LayoutManager {
 

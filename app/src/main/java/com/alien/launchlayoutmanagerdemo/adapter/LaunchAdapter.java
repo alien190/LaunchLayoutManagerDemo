@@ -1,4 +1,4 @@
-package com.mobdev.ivanovnv.spaceanalytix.ui.launch;
+package com.alien.launchlayoutmanagerdemo.adapter;
 
 
 import android.support.annotation.NonNull;
@@ -8,7 +8,6 @@ import android.view.View;
 import android.view.ViewGroup;
 
 
-import com.alien.launchlayoutmanagerdemo.LaunchViewHolder;
 import com.alien.launchlayoutmanagerdemo.R;
 import com.alien.launchlayoutmanagerdemo.model.Launch;
 

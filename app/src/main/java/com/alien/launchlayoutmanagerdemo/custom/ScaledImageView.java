@@ -5,13 +5,13 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Rect;
+import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.View;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-import androidx.annotation.Nullable;
 import io.reactivex.BackpressureOverflowStrategy;
 import io.reactivex.processors.PublishProcessor;
 import io.reactivex.schedulers.Schedulers;
