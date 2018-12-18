@@ -1,4 +1,4 @@
-package com.alien.launchlayoutmanagerdemo;
+package com.alien.launchlayoutmanagerdemo.model;
 
 public class Launch {
     private String mission_name;
